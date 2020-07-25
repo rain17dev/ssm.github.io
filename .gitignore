@@ -1,8 +1,4 @@
-.*
-!.gitignore
-!.gitmodules
-*~
-
-components/
-
-_site/
+_site
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
